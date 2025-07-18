@@ -85,11 +85,10 @@ graph TB
 5. **Analysis**: Intelligent interpretation of results
 
 #### Supported Query Types
-- Sales performance by period, product, or region
+- Product sales perfomance by category, period 
 - Customer analysis and segmentation
 - Inventory status and trends
-- Financial metrics and KPIs
-- Comparative analysis across time periods
+
 
 ### 2. Hybrid Forecasting System
 
@@ -108,32 +107,10 @@ graph TB
 - **General Sales Forecasting**: Overall revenue and volume predictions
 - **Product-Specific Forecasting**: Individual SKU performance
 - **New Product Forecasting**: Using reference product patterns
-- **Seasonal Forecasting**: Holiday and seasonal adjustments
 
-### 3. Intelligent Business Analysis
 
-#### Automatic Insights
-- **Trend Detection**: Identifies growth, decline, or stability patterns
-- **Anomaly Detection**: Highlights unusual data points
-- **Seasonality Analysis**: Identifies recurring patterns
-- **Performance Comparison**: Benchmarks against historical data
-
-#### Recommendations Engine
-- **Inventory Management**: Stock level optimization suggestions
-- **Marketing Timing**: Optimal promotion scheduling
-- **Resource Allocation**: Sales team and budget recommendations
-- **Risk Assessment**: Identifies potential issues and opportunities
-
-### 4. Specialized Product Analysis
+### 3. Specialized Product Analysis
 
 #### New Product Launch Support
 - **Reference Product Matching**: Finds similar existing products
 - **First 6-Month Analysis**: Detailed launch performance tracking
-- **Market Entry Timing**: Optimal launch window recommendations
-- **Performance Benchmarking**: Comparison with successful launches
-
-#### Product Lifecycle Management
-- **Growth Stage Identification**: Automatic classification
-- **Decline Detection**: Early warning systems
-- **Portfolio Optimization**: Product mix recommendations
-- **Cannibalization Analysis**: Impact of new products on existing ones
