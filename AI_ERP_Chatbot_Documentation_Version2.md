@@ -1,7 +1,7 @@
 # AI Chatbot for ERP System (EBuilder) - Complete Documentation
 
 **Version:** 1.0  
-**Last Updated:** 2025-07-18 02:25:07  
+**Last Updated:** 2025-07-18 10:52:07  
 **Author:** tate88  
 
 ## Table of Contents
@@ -55,7 +55,7 @@ graph TB
 
 #### 1. Flask Application Server
 - **Purpose**: Main web server handling HTTP requests and responses
-- **Key Files**: `app.py`, `routes.py`
+- **Key Files**: `app.py`
 - **Responsibilities**: Request routing, session management, API endpoints
 
 #### 2. Socket.IO Communication Layer
